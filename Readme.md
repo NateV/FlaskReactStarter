@@ -8,11 +8,11 @@ This is a starter Flask/React app.
 
 or 
 
-`gunicorn clsreporter:app`
+`gunicorn server:app`
 
 
 ## Docker Image
 
 Build with `make docker`.
 
-Run and enter container with `sudo docker run -ti --entrypoint=/bin/bash natev/clsreporter:v001 -i`
+Run and enter container with `sudo docker run -ti --entrypoint=/bin/bash natev/server:v001 -i`
