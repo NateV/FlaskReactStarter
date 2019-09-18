@@ -1,0 +1,4 @@
+node_modules
+*.pyc
+bundle.js
+.vscode

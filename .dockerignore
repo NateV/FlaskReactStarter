@@ -1,0 +1,10 @@
+.git
+.gitignore
+*/static/node_modules
+*/static/js
+*/static/.babelrc
+*/static/*.json
+*/static/webpack.config.js
+.vscode
+Makefile
+Readme.md
